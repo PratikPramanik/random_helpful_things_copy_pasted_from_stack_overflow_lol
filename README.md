@@ -6,4 +6,7 @@ command line and other helpful snippets
 pip freeze | xargs pip uninstall -y
 ```
 
-
+### create python venv
+```
+python3 -m venv <NAME>
+```
