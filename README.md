@@ -2,8 +2,9 @@
 command line and other helpful snippets
 
 ### (Mac) Read Xcode TOS
+```
 sudo xcodebuild -license
-
+```
 
 ### Oh My ZSH
 https://ohmyz.sh/#install
